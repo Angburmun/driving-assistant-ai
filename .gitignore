@@ -1,5 +1,6 @@
 # YOLO Model (downloaded from ultralytics)
 yolo11n.pt
+runs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
