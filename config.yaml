@@ -1,4 +1,4 @@
-path: /mnt/d/TFM/driving-assistant-ai/dataset_YOLO
+path: /mnt/d/TFM/dataset_YOLO
 train: images/train
 val: images/val
 test: images/test
